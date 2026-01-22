@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207](https://iconscout.com/lottie-animations/programmer)">
+<img align="right" alt="Coding" width="400" src="https://github.com/mrv432222-cell/mrv432222-cell/blob/main/surviving-the-last-of-us.1920x1080.mp4">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
